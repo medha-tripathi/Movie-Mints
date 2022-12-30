@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/movies-mint/static/css/main.d41407f8.css",
+    "main.js": "/movies-mint/static/js/main.b0ca86f0.js",
+    "static/js/787.2a893e15.chunk.js": "/movies-mint/static/js/787.2a893e15.chunk.js",
+    "index.html": "/movies-mint/index.html",
+    "main.d41407f8.css.map": "/movies-mint/static/css/main.d41407f8.css.map",
+    "main.b0ca86f0.js.map": "/movies-mint/static/js/main.b0ca86f0.js.map",
+    "787.2a893e15.chunk.js.map": "/movies-mint/static/js/787.2a893e15.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d41407f8.css",
+    "static/js/main.b0ca86f0.js"
+  ]
+}
